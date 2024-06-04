@@ -21,7 +21,7 @@ Carv Buy Nodes - это автоматизированный инструмен�
 git clone https://github.com/Eazer1/carv_buy_nodes
 ```
 ```
-cd aethir_buy_nodes
+cd carv_buy_nodes
 ```
 ```
 pip install -r requirements.txt
