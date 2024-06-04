@@ -1,6 +1,6 @@
 # Carv Buy Nodes
 
-**Carv Buy Nodes **is an automated python tool designed to automatically buy Carv nodes according to user-defined specifications. The tool allows users to specify the desired node type and quantity to purchase, and automatically applies a 10% discount, which Aethir will provide two weeks after purchase.
+Carv Buy Nodes is an automated python tool designed to automatically buy Carv nodes according to user-defined specifications. The tool allows users to specify the desired node type and quantity to purchase, and automatically applies a 10% discount, which Aethir will provide two weeks after purchase.
 
 Project information: https://t.me/Eazercrypto/1132
 
