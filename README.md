@@ -26,6 +26,7 @@ cd carv_buy_nodes
 ```
 pip install -r requirements.txt
 ```
+[**Как запустить код без установки на свой пк**](https://teletype.in/@eazer/how_to_start_code_in_chrome)
 
 Загрузка в wallets.txt кошельков в формате prkey;tier;amount где:
 - prkey - приватный ключ от вашего кошелька
