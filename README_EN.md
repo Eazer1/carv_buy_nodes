@@ -12,6 +12,7 @@ Project information: https://t.me/Eazercrypto/1132
 - It is possible and even desirable to run the code in advance. It will check if your wallets have enough $wETH and make uprules for node seel contracts
 
 ## Settings
+[**How to run the code without installing it on your pc**](https://teletype.in/@eazer/how_to_start_code_in_chrome)
 
 - Python 3.10
 
